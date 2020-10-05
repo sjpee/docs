@@ -7,7 +7,7 @@ toc: true
 <a name="linux"></a>
 <a name="mac"></a>
 
-{% include {{page.version.version}}/misc/spatial-support-new.md %}
+{% include {{page.version.version}}/sql/spatial-support-new.md %}
 
 This page has instructions for installing CockroachDB Spatial on Mac and Linux.
 

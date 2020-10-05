@@ -1810,6 +1810,30 @@
     		    "urls": [
     		      "/${VERSION}/uuid.html"
     		    ]
+    		  },
+    		  {
+    		    "title": "<code>GEOMETRY</code>",
+    		    "urls": [
+    		      "/${VERSION}/geometry.html"
+    		    ]
+    		  },
+    		  {
+    		    "title": "<code>GEOGRAPHY</code>",
+    		    "urls": [
+    		      "/${VERSION}/geography.html"
+    		    ]
+    		  },
+    		  {
+    		    "title": "Well-Known Text",
+    		    "urls": [
+    		      "/${VERSION}/well-known-text.html"
+    		    ]
+    		  },
+    		  {
+    		    "title": "Well-Known Binary",
+    		    "urls": [
+    		      "/${VERSION}/well-known-text.html"
+    		    ]
     		  }
     		]
     	      },
@@ -2004,20 +2028,26 @@
       },
       {
     		"title": "Spatial Features",
-    		  "items": [
+    		"items": [
     		      {
     			  "title": "Overview",
     			  "urls": [
     			      "/${VERSION}/spatial-features.html"
     			  ]
-	      },
-	      {
-  			  "title": "Spatial and GIS Glossary of Terms",
-  			  "urls": [
-  			      "/${VERSION}/spatial-glossary.html"
-  			  ]
-	      }
-	]
+         	   },
+                  {
+                       "title": "Spatial and GIS Glossary of Terms",
+                       "urls": [
+                           "/${VERSION}/spatial-glossary.html"
+                       ]
+                   },
+                  {
+                       "title": "Spatial Indexes",
+                       "urls": [
+                           "/${VERSION}/spatial-indexes.html"
+                       ]
+                   }
+	        ]
       },
       {
     		"title": "Performance Optimization",

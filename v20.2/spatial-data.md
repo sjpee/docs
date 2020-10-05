@@ -4,7 +4,7 @@ summary: CockroachDB has special support for efficiently storing and querying sp
 toc: true
 ---
 
-{% include {{page.version.version}}/misc/spatial-support-new.md %}
+{% include {{page.version.version}}/sql/spatial-support-new.md %}
 
 Supported spatial data types include:
 

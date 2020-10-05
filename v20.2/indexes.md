@@ -65,7 +65,7 @@ Hash-sharded indexes cannot be [interleaved](interleave-in-parent.html).
 
 ## Spatial indexes
 
-{% include {{page.version.version}}/misc/spatial-support-new.md %}
+{% include {{page.version.version}}/sql/spatial-support-new.md %}
 
 For more information about spatial indexes, see [Spatial Indexes](spatial-indexes.html).
 
